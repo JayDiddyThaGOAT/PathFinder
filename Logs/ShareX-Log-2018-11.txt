@@ -1630,3 +1630,24 @@ System.ComponentModel.Win32Exception (0x80004005): The system cannot find the fi
 2018-11-26 22:12:41.915 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF) using custom region, Job: ScreenRecorderGIF
 2018-11-26 22:12:41.915 - HotkeyManager started.
 2018-11-26 22:12:41.915 - WatchFolderManager started.
+2018-11-26 23:14:01.512 - Task in queue. Job: Job, Type: Image, Host: 
+2018-11-26 23:14:01.516 - Task status: Preparing
+2018-11-26 23:14:01.542 - Image copied to clipboard.
+2018-11-26 23:14:01.556 - Image saved to file: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\Screenshots\netbeans64_8RRY2uCGog.png
+2018-11-26 23:14:01.563 - Task completed. Filename: netbeans64_8RRY2uCGog.png, Duration: 44 ms
+2018-11-26 23:14:06.772 - ApplicationConfig save started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\ApplicationConfig.json
+2018-11-26 23:14:06.779 - UploadersConfig save started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\UploadersConfig.json
+2018-11-26 23:14:06.779 - HotkeysConfig save started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\HotkeysConfig.json
+2018-11-26 23:14:06.912 - UploadersConfig save successful: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\UploadersConfig.json
+2018-11-26 23:14:06.936 - HotkeysConfig save successful: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\HotkeysConfig.json
+2018-11-26 23:14:06.969 - ApplicationConfig save successful: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\ApplicationConfig.json
+2018-11-27 00:07:38.945 - UploadersConfig save started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\UploadersConfig.json
+2018-11-27 00:07:39.015 - UploadersConfig save successful: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\UploadersConfig.json
+2018-11-27 00:09:20.436 - ApplicationConfig save started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\ApplicationConfig.json
+2018-11-27 00:09:20.555 - ApplicationConfig save successful: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\ApplicationConfig.json
+2018-11-27 00:09:21.515 - ApplicationConfig save started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\ApplicationConfig.json
+2018-11-27 00:09:21.515 - UploadersConfig save started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\UploadersConfig.json
+2018-11-27 00:09:21.515 - HotkeysConfig save started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\HotkeysConfig.json
+2018-11-27 00:09:21.619 - UploadersConfig save successful: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\UploadersConfig.json
+2018-11-27 00:09:21.667 - HotkeysConfig save successful: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\HotkeysConfig.json
+2018-11-27 00:09:21.675 - ApplicationConfig save successful: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\ApplicationConfig.json

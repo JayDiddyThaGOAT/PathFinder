@@ -248,7 +248,7 @@
     "Reuse": false
   },
   "TwitterOAuthInfoList": [],
-  "TwitterSelectedAccount": 0,
+  "TwitterSelectedAccount": -1,
   "TwitterSkipMessageBox": false,
   "TwitterDefaultMessage": "",
   "CustomUploadersList": [],
