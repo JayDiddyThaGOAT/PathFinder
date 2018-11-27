@@ -1596,3 +1596,37 @@ System.ComponentModel.Win32Exception (0x80004005): The system cannot find the fi
 2018-11-26 18:06:37.939 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF) using custom region, Job: ScreenRecorderGIF
 2018-11-26 18:06:37.940 - HotkeyManager started.
 2018-11-26 18:06:37.941 - WatchFolderManager started.
+2018-11-26 20:01:56.755 - ShareX closing.
+2018-11-26 20:01:56.802 - ApplicationConfig save started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\ApplicationConfig.json
+2018-11-26 20:01:57.021 - ApplicationConfig save successful: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\ApplicationConfig.json
+2018-11-26 20:01:57.037 - UploadersConfig save started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\UploadersConfig.json
+2018-11-26 20:01:57.115 - UploadersConfig save successful: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\UploadersConfig.json
+2018-11-26 20:01:57.115 - HotkeysConfig save started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\HotkeysConfig.json
+2018-11-26 20:01:57.224 - HotkeysConfig save successful: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\HotkeysConfig.json
+2018-11-26 20:01:57.224 - ShareX closed.
+2018-11-26 22:12:40.352 - ShareX starting.
+2018-11-26 22:12:40.352 - Version: 12.3.1
+2018-11-26 22:12:40.352 - Build: Release
+2018-11-26 22:12:40.352 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2018-11-26 22:12:40.352 - Personal path: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson
+2018-11-26 22:12:40.352 - Personal path detection method: PersonalPath.cfg file (C:\Users\J Diddy\Documents\ShareX\PersonalPath.cfg)
+2018-11-26 22:12:40.352 - Operating system: Windows 10 Education (64-bit)
+2018-11-26 22:12:40.352 - Running as elevated process: False
+2018-11-26 22:12:40.352 - Flags: SilentRun
+2018-11-26 22:12:40.446 - ApplicationConfig load started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\ApplicationConfig.json
+2018-11-26 22:12:41.212 - ApplicationConfig load finished: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\ApplicationConfig.json
+2018-11-26 22:12:41.227 - UploadersConfig load started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\UploadersConfig.json
+2018-11-26 22:12:41.227 - MainForm init started.
+2018-11-26 22:12:41.383 - UploadersConfig load finished: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\UploadersConfig.json
+2018-11-26 22:12:41.383 - HotkeysConfig load started: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\HotkeysConfig.json
+2018-11-26 22:12:41.446 - HotkeysConfig load finished: C:\Users\J Diddy\Documents\CSUF Fall 2018\CPSC 223J\8_Jalen_Jackson\HotkeysConfig.json
+2018-11-26 22:12:41.696 - MainForm init finished.
+2018-11-26 22:12:41.883 - Startup time: 1679 ms
+2018-11-26 22:12:41.883 - CommandLine: silent
+2018-11-26 22:12:41.915 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2018-11-26 22:12:41.915 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2018-11-26 22:12:41.915 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2018-11-26 22:12:41.915 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording using custom region, Job: ScreenRecorder
+2018-11-26 22:12:41.915 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF) using custom region, Job: ScreenRecorderGIF
+2018-11-26 22:12:41.915 - HotkeyManager started.
+2018-11-26 22:12:41.915 - WatchFolderManager started.
