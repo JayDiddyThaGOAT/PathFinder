@@ -1,7 +1,3 @@
-## Pathfinder
-
-This is an application programmed in Java using the Swing GUI tools, created for my final project for my Java Programming class in Spring 2018. It can find the shortest path between two cells in the grid and has the option to generate mazes by adding walls manually with a right click or automatically with the **Generate Maze** algorithm
-
 ## Installation
 1. Download the ZIP file or clone the git repository
 2. Click on the **Pathfinder.exe**
