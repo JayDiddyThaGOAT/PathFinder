@@ -1,3 +1,6 @@
+## Demonstration
+![](https://thumbs.gfycat.com/DarlingHarshBaboon-size_restricted.gif)
+
 ## Installation
 1. Download the ZIP file or clone the git repository
 2. Click on the **Pathfinder.exe**
