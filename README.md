@@ -2,7 +2,7 @@
 ![](https://thumbs.gfycat.com/DarlingHarshBaboon-size_restricted.gif)
 
 ## Requirements
-Install JDK 11
+* Install JDK 11
 
 ## Installation
 1. Download the ZIP file or clone the git repository
