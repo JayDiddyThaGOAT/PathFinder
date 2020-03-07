@@ -2,7 +2,7 @@
 ![](https://thumbs.gfycat.com/DarlingHarshBaboon-size_restricted.gif)
 
 ## Installation
-1. Install ![JDK 11](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot)
+1. Install [JDK 11](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot)
 2. Download the ZIP file or clone the git repository
 3. Click on **Jalen's Pathfinder.jar**
 
