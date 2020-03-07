@@ -1,12 +1,10 @@
 ## Demonstration
 ![](https://thumbs.gfycat.com/DarlingHarshBaboon-size_restricted.gif)
 
-## Requirements
-* Install JDK 11
-
 ## Installation
-1. Download the ZIP file or clone the git repository
-2. Click on the **Pathfinder.exe**
+1. Install ![JDK 11](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot)
+2. Download the ZIP file or clone the git repository
+3. Click on **Jalen's Pathfinder.jar**
 
 ## How to Use
 * Left Click on a button in the grid to pick a start point\
